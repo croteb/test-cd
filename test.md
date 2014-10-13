@@ -1,3 +1,4 @@
+foot
 <<<<<<< HEAD
 A change
 foo
